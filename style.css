@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #0066cc;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.p1 {
+    color: green;
+}
+
+.p2 {
+    color: blue;
+}
+
+.p3 {
+    color: green;
+}
+
+.p4 {
+    color: blue;
+}
+
+.div1 {
+    background-color: #7a506f; /* A shade of purple */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.p5, .p6 {
+    color: #ffffff; /* White text on purple */
+}
